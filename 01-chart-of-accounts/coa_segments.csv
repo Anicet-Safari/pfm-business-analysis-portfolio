@@ -1,0 +1,23 @@
+segment,code,name,level,parent,notes
+fund,10,Domestic revenue,1,,Default for recurrent spending
+fund,11,Earmarked domestic revenue,1,,Ring-fenced levies
+fund,20,External grant,1,,Requires project code
+fund,21,External loan,1,,Requires project code
+fund,30,Internally generated revenue (agency),1,,Retained by collecting agency
+administrative,03,Ministry X (fictional),1,,
+administrative,0301,Directorate of Planning,2,03,
+administrative,030101,Planning and Statistics Unit,3,0301,
+administrative,0302,Directorate of Finance,2,03,
+administrative,030201,Accounts Unit,3,0302,Revenue-collecting unit
+function,09,Education,1,,COFOG division
+function,091,Pre-primary and primary education,2,09,COFOG group
+function,0912,Primary education,3,091,COFOG class
+function,07,Health,1,,COFOG division
+function,0721,General medical services,3,072,COFOG class
+programme,04,Basic education,1,,Maps to function 09
+programme,04010,Basic education access,2,04,Maps to function 0912
+programme,04020,Teacher development,2,04,Maps to function 0912
+location,01,Province A (fictional),1,,
+location,0102,District A2 (fictional),2,01,
+project,000000,No project,1,,Default for recurrent spending
+project,100001,School construction phase 1 (fictional),1,,Fund 20 or 21

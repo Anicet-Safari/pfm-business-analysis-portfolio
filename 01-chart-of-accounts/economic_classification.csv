@@ -1,0 +1,39 @@
+code,name,level,parent,gfsm2014_reference,normal_balance
+1,Revenue,class,,1,credit
+11,Taxes,category,1,11,credit
+111,Taxes on income profits and capital gains,group,11,111,credit
+1110010,Personal income tax (PAYE),item,111,1111,credit
+114,Taxes on goods and services,group,11,114,credit
+1140010,Value added tax,item,114,11411,credit
+14,Other revenue,category,1,14,credit
+142,Sales of goods and services,group,14,142,credit
+1420010,Administrative fees,item,142,1422,credit
+2,Expense,class,,2,debit
+21,Compensation of employees,category,2,21,debit
+211,Wages and salaries,group,21,211,debit
+2110010,Basic salaries - permanent staff,item,211,2111,debit
+2110020,Allowances,item,211,2111,debit
+212,Social contributions,group,21,212,debit
+2120010,Employer pension contribution,item,212,2121,debit
+22,Use of goods and services,category,2,22,debit
+221,Office and general,group,22,22,debit
+2211010,Office supplies,item,221,22,debit
+2211020,Communication and internet,item,221,22,debit
+222,Travel,group,22,22,debit
+2221010,Domestic travel,item,222,22,debit
+223,Utilities,group,22,22,debit
+2231010,Electricity,item,223,22,debit
+26,Grants,category,2,26,debit
+263,Grants to other general government units,group,26,263,debit
+2631010,Current transfers to districts,item,263,2631,debit
+3,Transactions in non-financial assets,class,,31,debit
+311,Fixed assets,group,3,311,debit
+3111010,Buildings - construction,item,311,3111,debit
+3112010,Machinery and equipment,item,311,3112,debit
+6,Balance sheet - cash and bank,class,,,debit
+6110010,Treasury single account,item,6,,debit
+6120010,Project bank account,item,6,,debit
+7,Balance sheet - payables and suspense,class,,,credit
+7110010,Accounts payable - suppliers,item,7,,credit
+7120010,Salary payable,item,7,,credit
+7900010,Suspense - unidentified receipts,item,7,,credit
