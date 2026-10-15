@@ -8,7 +8,7 @@ This repository holds practical business-analysis work on public financial manag
 ## About this work
 
 - **Author.** Every document here was written by me. Each file carries an author line.
-- **Status.** The documents in folders 01–07 are **illustrative work samples** I prepared in October 2026 to show how I approach PFM business analysis. They are not deliverables from a client engagement.
+- **Status.** Folder 08 describes real work delivered to a client; the workbook in it is a rebuilt template with fictional figures, because the client's own file is confidential. The documents in folders 01–07 are **illustrative work samples** I prepared in October 2026 to show how I approach PFM business analysis; they are not deliverables from a client engagement.
 - **Data.** All entities, amounts and transactions are fictional. No data from any employer or client is used.
 - **Standards referenced.** IPSAS (cash and accrual basis, including IPSAS 24 on budget reporting), IMF GFSM 2014 economic classification, UN COFOG functional classification, COSO 2013 internal control framework, swimlane process maps (in Mermaid, which renders on GitHub) and INVEST / Given-When-Then for user stories.
 
@@ -23,6 +23,7 @@ This repository holds practical business-analysis work on public financial manag
 | 5 | Analytical and functional deliverables supporting system implementation | [05-user-stories](05-user-stories) | User stories with acceptance criteria; requirements traceability matrix |
 | 6 | Internal control processes | [06-internal-controls](06-internal-controls) | Commitment-to-payment controls matrix (COSO-mapped) |
 | 7 | Reconciliation procedures | [07-reconciliation-procedures](07-reconciliation-procedures) | Bank and sub-ledger reconciliation procedure with a worked example |
+| 8 | Proven practical work | [08-delivered-work](08-delivered-work) | Case study of the financial management workbook delivered under my Fractional CFO engagement (May 2023 to date), with a rebuilt template of the workbook |
 
 ## How the pieces connect
 
