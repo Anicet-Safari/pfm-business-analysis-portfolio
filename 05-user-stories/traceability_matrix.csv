@@ -1,0 +1,14 @@
+requirement_id,requirement_summary,user_story,test_case,control_id,priority,status
+FR-01,Import bank statement in agreed format,BR-US-01,TC-01,C-10,Must,Draft
+FR-02,Reject invalid or overlapping statements,BR-US-02,TC-02;TC-03,C-10,Must,Draft
+FR-03,Store all statement line fields,BR-US-01,TC-01,,Must,Draft
+FR-04,Auto-match on reference and amount,BR-US-03,TC-04;TC-05,,Must,Draft
+FR-05,Auto-match on amount within date window,BR-US-04,TC-06;TC-07,,Must,Draft
+FR-06,One-to-many batch matching,(to be written),TC-08,,Should,Open
+FR-07,Ordered rules and rule recorded on match,BR-US-03,TC-04,,Must,Draft
+FR-08,Manual match and adjustments,BR-US-05,TC-09,,Must,Draft
+FR-09,Unidentified receipts to suspense,BR-US-06,TC-10,C-12,Must,Draft
+FR-10,Block submission while difference remains,BR-US-07,TC-11;TC-12,C-10,Must,Draft
+FR-11,Approval workflow,BR-US-08,TC-13,C-10,Must,Draft
+FR-12,Lock period on approval,BR-US-08,TC-13;TC-14,C-10,Must,Draft
+FR-13,Due-date dashboard,(to be written),TC-15,C-10,Should,Open
