@@ -1,7 +1,7 @@
 # Public Financial Management — Business Analysis Portfolio
 
 **Anicet Safari, CPA (ICPAR), FMVA, MBA (Finance)**
-Kigali, Rwanda · safarianicet10@gmail.com · [linkedin.com/in/safari-anicet-cpa](https://www.linkedin.com/in/safari-anicet-cpa)
+Kigali, Rwanda · anice.safari@gmail.com · [linkedin.com/in/safari-anicet-cpa](https://www.linkedin.com/in/safari-anicet-cpa)
 
 This repository holds practical business-analysis work on public financial management (PFM) systems: chart of accounts design, financial statement and report specifications, budgeting and accounting process maps, expenditure and revenue workflows, a functional specification for a financial-system module, user stories with acceptance criteria, an internal controls matrix and reconciliation procedures.
 
